@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hashibul Haque</h1>
 <h3 align="center">A passionate Web developer from Bangladesh.</h3>
+<img align="right" alt="Coding" width="270" src="https://miro.medium.com/v2/resize:fit:640/1*w15cWItClGbCg5m70a_hqA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehasibulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mehasibulhaque" /> </p>
 
